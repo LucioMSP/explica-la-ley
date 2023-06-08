@@ -41,3 +41,51 @@ People who have contributed with code changes, documentation or bug fixes to the
 
 ### Core Team
 Responsible for development and maintenance of the project. In charge of responding to pull requests and leading discussion about the project. In our case, they usually are members of Codeando México.
+
+# Contribuyendo a "Cambia la Ley" ([español](/COLABORA.md))
+
+1. [Involucrarse](#involucrarse)
+2. [Discusión](#discusion)
+3. [Acerca de las solicitudes de extracción](#acerca-de-las-solicitudes-de-extraccion)
+4. [Acerca de autores y colaboradores](#acerca-de-autores-y-colaboradores)
+
+
+## Involucrarse
+Puedes involucrarte por:
+
+- Informe de errores
+
+Puedes reportar errores en nuestra página de [errores](https://github.com/CodeandoMexico/cambia-la-ley/issues). Asegúrate de usar la etiqueta "error". Por favor sea lo más específico posible. Se recomienda el uso de registros y capturas de pantalla. Si usted puede corregir el error usted mismo envíe una solicitud de extracción.
+
+- Características sugeridas
+
+Al igual que con los errores, puedes sugerir características en nuestra página de [errores](https://github.com/CodeandoMexico/cambia-la-ley/issues). Sea lo más específico posible en la descripción. Nos encantan las sugerencias de funciones acompañadas de una solicitud de extracción.
+
+- Contribuyendo con código
+
+En caso de que no lo hayamos enfatizado lo suficiente: *¡Nos encantan las solicitudes de extracción!*. Por el momento estamos agregando más pruebas a nuestro proyecto. Siempre preferimos solicitudes de extracción con pruebas. El equipo central responderá al menos con un comentario a cada solicitud de extracción dentro de los 3 días hábiles.
+
+## Discusion
+
+Por favor usa nuestra página de [errores](https://github.com/CodeandoMexico/cambia-la-ley/issues) para debatir.
+
+## Acerca de las solicitudes de extraccion
+  Estamos en un proceso de mejora, estamos agregando pruebas con Mocha y Should.js. Aunque todavía no tenemos un marco de prueba bien definido, recomendamos que cada solicitud de extracción tenga pruebas. Cada solicitud de extracción debe:
+  
+   - Hacer referencia a un problema en el mensaje de confirmación. Ejemplo de un mensaje de confirmación: [#23] Mejora el rendimiento de la base de datos.
+
+   - Dé una explicación clara de por qué existe esa solicitud de extracción. La explicación debe tener lugar en la sección de comentarios de la solicitud de extracción de github.
+
+   El equipo central se compromete a responder cada solicitud de extracción dentro de los 3 días hábiles con al menos un comentario de seguimiento.
+
+## Acerca de autores y colaboradores
+
+### Autores
+Los autores son colaboradores que tuvieron la idea original y, por lo general, son responsables de las confirmaciones de carga iniciales.
+
+### Colaboradores
+Personas que han contribuido con cambios de código, documentación o corrección de errores en el proyecto, solo mediante el envío de una solicitud de incorporación de cambios. Deben ordenarse por fecha de cotización inicial en el archivo [CONTRIBUTORS.md](/CONTRIBUTORS.md) file.
+
+### Equipo Principal
+Responsable del desarrollo y mantenimiento del proyecto. A cargo de responder a las solicitudes de extracción y liderar la discusión sobre el proyecto. En nuestro caso, suelen ser miembros de Codeando México.
+
